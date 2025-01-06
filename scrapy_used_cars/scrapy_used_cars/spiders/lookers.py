@@ -200,9 +200,9 @@ class LookersSpider(scrapy.Spider):
             "transmission": car_meta.get("transmission"),
             "year": car_meta.get("year"),
             "dealership_name": car_meta.get("dealership_name"),
-            "mpg": float(extract_numeric(mpg)) if mpg else None,
-            "n_doors": int(extract_numeric(n_doors)) if n_doors else None,
-            "previous_owners": int(extract_numeric(previous_owners)) if previous_owners else None,
+            "mpg": float(extract_numeric(mpg)) if extract_numeric(mpg) is not None else None,
+            "n_doors": int(extract_numeric(n_doors)) if extract_numeric(n_doors) is not None else None,
+            "previous_owners": int(extract_numeric(previous_owners)) if extract_numeric(previous_owners) is not None else None,
             "droplet": droplet,
             "feature_list": ", ".join(feature_list),
         }

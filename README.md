@@ -1,15 +1,25 @@
 # Used Cars Scraper
 
-> ### Note: Archived Repository
-> This repository represents the completed version of the project (as of 29/12/2024) collaboratively built by:
+---
+
+> ### Note: Standalone Repository – Maintained by Georgios Gkakos
+> This repository represents the completed and now standalone version of a collaborative project originally built by:
 > 
 > [Marij Qureshi](https://github.com/MarijQ), [Georgios Gkakos](https://github.com/GGkakos), [Het Suhagiya](https://github.com/HetSuhagiya)
 > 
-> This repository is no longer actively maintained. Please see individual forks for the most up-to-date versions.
+> As of **21/01/2025**, the original repository has been archived. This standalone version is now maintained by **Georgios Gkakos** for future updates and improvements.
+
+
+---
+
 
 ## Website Permissions
 
 This project respects the terms and conditions for the Carwow, Cargiant and Lookers websites at the time of development. The data accessed was strictly for educational purposes, in compliance with ethical scraping practices. For details on what is allowed and disallowed for web crawlers when using these tools, please refer to the latest site terms and robots.txt files.
+
+
+--- 
+
 
 ## Table of Contents
 

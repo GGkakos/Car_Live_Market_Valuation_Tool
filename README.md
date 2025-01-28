@@ -5,7 +5,7 @@
 > ### Note: Standalone Repository – Maintained by Georgios Gkakos
 > This repository represents the completed and now standalone version of a collaborative project originally built by:
 > 
-> [Marij Qureshi](https://github.com/MarijQ), [Georgios Gkakos](https://github.com/GGkakos), [Het Suhagiya](https://github.com/HetSuhagiya)
+> [Georgios Gkakos](https://github.com/GGkakos), [Marij Qureshi](https://github.com/MarijQ), [Het Suhagiya](https://github.com/HetSuhagiya)
 > 
 > As of **21/01/2025**, the original repository has been archived. This standalone version is now maintained by **Georgios Gkakos** for future updates and improvements.
 
